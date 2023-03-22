@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Music Quiz</string>
+
+        <string-array name="question_2_array">
+            <item>F</item>
+            <item>G</item>
+            <item>H</item>
+            <item>A</item>
+            <item>B</item>
+            <item>C</item>
+            <item>D</item>
+            <item>E</item>
+        </string-array>
+
+
+    <!-- Default score  [CHAR LIMIT=NONE]-->
+    <string name="score_default">0</string>
+    <!-- Score - out of 5  [CHAR LIMIT=NONE]-->
+    <string name="score_out_of_5">/5</string>
+    <!-- Score  [CHAR LIMIT=NONE]-->
+    <string name="score">Score:</string>
+    <!-- Final Score  [CHAR LIMIT=NONE]-->
+    <string name="final_score_text">Total Score:</string>
+
+
+    <!-- Submit Button Text for start // Start  [CHAR LIMIT=NONE]-->
+    <string name="submit_button_start">Start</string>
+    <!-- Submit Button Text for during questions // Start  [CHAR LIMIT=NONE]-->
+    <string name="submit_button_during">Submit</string>
+    <!-- Submit Button Text for end // Start  [CHAR LIMIT=NONE]-->
+    <string name="submit_button_end">Restart</string>
+    <!-- Hint Button Text // Start  [CHAR LIMIT=NONE]-->
+    <string name="hint_button_text">Hint</string>
+    <!-- Skip Button Text // Start  [CHAR LIMIT=NONE]-->
+    <string name="skip_button_text">Skip</string>
+
+    <!-- Question 1 text  [CHAR LIMIT=NONE]-->
+    <string name="q_1_question_text">In what year was Ludwig Van Beethoven Born?</string>
+    <!-- Question 1 sub headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_1_question_sub_headder_text">Question 1: (We had to have one about him)</string>
+    <!-- Question 1 main headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_1_question_main_headder_text">Question 1.</string>
+
+    <!-- Question 2 text  [CHAR LIMIT=NONE]-->
+    <string name="q_2_question_text">What is this Major Key Signature?</string>
+    <!-- Question 1 sub headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_2_question_sub_headder_text">Question 2</string>
+    <!-- Question 1 main headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_2_question_main_headder_text">Question 2</string>
+
+    <!-- Question 3 text  [CHAR LIMIT=NONE]-->
+    <string name="q_3_question_text">Press play - What is the instrument you hear?</string>
+    <!-- Question 1 sub headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_3_question_sub_headder_text">Question 3 and Listen to the Music</string>
+    <!-- Question 1 main headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_3_question_main_headder_text">Question 3</string>
+
+    <!-- Question 4 text  [CHAR LIMIT=NONE]-->
+    <string name="q_4_question_text">Complete the title of this well known work:</string>
+    <!-- Question 4 sub headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_4_question_sub_headder_text">Questi....</string>
+    <!-- Question 4 main headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_4_question_main_headder_text">Question 4</string>
+
+    <!-- Question 5 text  [CHAR LIMIT=NONE]-->
+    <string name="q_5_question_text">The A-Flat Major key signature has which flat notes in it?</string>
+    <!-- Question 5 sub headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_5_question_sub_headder_text">Question 5 - Toughie (No Clues!)</string>
+    <!-- Question 5 main headder text  [CHAR LIMIT=NONE]-->
+    <string name="q_5_question_main_headder_text">Question 5</string>
+
+    <!-- End of quiz sub headder text  [CHAR LIMIT=NONE]-->
+    <string name="end_quiz_sub_headder_text">Congratulations</string>
+    <!-- End of quiz main headder text  [CHAR LIMIT=NONE]-->
+    <string name="end_quiz_main_headder_text">End of Quiz!!</string>
+
+
+
+    <!-- Question 4 text option 1 [CHAR LIMIT=NONE]-->
+    <string name="q4_answer1">Symphony</string>
+    <!-- Question 4 text option 2 [CHAR LIMIT=NONE]-->
+    <string name="q4_answer2">symphony</string>
+    <!-- Question 4 text option 3 [CHAR LIMIT=NONE]-->
+    <string name="q4_answer3">Symphony </string>
+    <!-- Question 4 text option 4 [CHAR LIMIT=NONE]-->
+    <string name="q4_answer4">symphony </string>
+
+
+
+
+    <!-- Toasts -->
+    <!-- Try Again Toast  [CHAR LIMIT=NONE]-->
+    <string name="try_again_toast">Try Again!</string>
+    <!-- Q5 Correct Toast  [CHAR LIMIT=NONE]-->
+    <string name="q5_correct_toast">Spot On</string>
+    <!-- Q4 Correct Toast  [CHAR LIMIT=NONE]-->
+    <string name="q4_correct_toast">Correct</string>
+    <!-- Q3 Correct Toast  [CHAR LIMIT=NONE]-->
+    <string name="q3_correct_toast">That sounds right!</string>
+    <!-- Q2 Correct Toast  [CHAR LIMIT=NONE]-->
+    <string name="q2_correct_toast">That is Major-ly correct</string>
+    <!-- Q1 Correct Toast  [CHAR LIMIT=NONE]-->
+    <string name="q1_correct_toast">Correct-a-mundo</string>
+
+
+    <!-- Hint Toast for question 1  [CHAR LIMIT=NONE]-->
+    <string name="q1_hint_toast">He\'s older than you think. But not that old..</string>
+    <!-- Hint Toast for question 2  [CHAR LIMIT=NONE]-->
+    <string name="q2_hint_toast">CGDAEB&#x2026;</string>
+    <!-- Hint Toast for question 3  [CHAR LIMIT=NONE]-->
+    <string name="q3_hint_toast">Its a Piano</string>
+    <!-- Hint Toast for question 4  [CHAR LIMIT=NONE]-->
+    <string name="q4_hint_toast">Check your spelling for this ensemble</string>
+    <!-- Hint Toast for question 5  [CHAR LIMIT=NONE]-->
+    <string name="q5_hint_toast">No hint for this four!</string>
+    <!-- Hint Toast for start screen  [CHAR LIMIT=NONE]-->
+    <string name="start_hint_toast">Press Start to Start!!</string>
+    <!-- Hint Toast for final score screen  [CHAR LIMIT=NONE]-->
+    <string name="final_score_hint_toast">Press New Game to start over!</string>
+
+
+    <!-- Default XML strings -->
+    <!-- Welcome [CHAR LIMIT=NONE]-->
+    <string name="welcome">A Music Theory Quiz</string>
+    <!-- Q1 Radio Button Options  [CHAR LIMIT=NONE]-->
+    <string name="q1_option1">1760</string>
+    <string name="q1_option2">1770</string>
+    <string name="q1_option3">1780</string>
+    <string name="q1_option4">1790</string>
+    <!-- Q3 Radio Button Options  [CHAR LIMIT=NONE]-->
+    <string name="q3_option1">Bongos</string>
+    <string name="q3_option2">Fiddle</string>
+    <string name="q3_option3">Common Flute</string>
+    <string name="q3_option4">Piano</string>
+    <!-- Q3 Play Button Options  [CHAR LIMIT=NONE]-->
+    <string name="q3_play_button">Play Music</string>
+    <!-- Q4 Edit Text Hint  [CHAR LIMIT=NONE]-->
+    <string name="q4_edit_text_hint">Blank</string>
+    <!-- Q4 Question text after blank [CHAR LIMIT=NONE]-->
+    <string name="q4_text_after_blank">No.5 in C Minor</string>
+    <!-- Q5 Check box Options  [CHAR LIMIT=NONE]-->
+    <string name="q5_option1">A-Flat</string>
+    <string name="q5_option2">C-Flat</string>
+    <string name="q5_option3">E-Flat</string>
+    <string name="q5_option4">G-Flat</string>
+    <string name="q5_option5">B-Flat</string>
+    <string name="q5_option6">D-Flat</string>
+    <string name="q5_option7">F-Flat</string>
+    <!-- End of Quiz TextView 3 [CHAR LIMIT=NONE]-->
+    <string name="end_of_quiz_note_1">0 to 2 : Scrub up on your music!</string>
+    <!-- End of Quiz TextView 2  [CHAR LIMIT=NONE]-->
+    <string name="end_of_quiz_note_2">3 to 4 : You\'ve got some knowledge</string>
+    <!-- End of Quiz TextView 3  [CHAR LIMIT=NONE]-->
+    <string name="end_of_quiz_note_3">5 : You\'re a Music Boss</string>
+    <string name="welcome_to_the_quiz">Welcome to the Quiz!!!</string>
+
+
+</resources>
